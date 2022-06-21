@@ -1,0 +1,22 @@
+body{
+    background-image: url('bg.gif');
+    background-size:110% 150%;   
+    
+}
+
+
+p{
+    text-align: left;
+    font-size: 35px;
+    color: aquamarine;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+}
+
+#carouselSite img 
+{
+    
+    max-width: 500px;
+    max-height: 500px;
+
+}
